@@ -1,14 +1,14 @@
-                    GNU GENERAL PUBLIC LICENSE
+                   # GNU GENERAL PUBLIC LICENSE
                        Version 1, 4 June 2025
 
- Copyright (C) 2025 Faseen Mavericks findit569@gmail.com
+## Copyright (C) 2025 Faseen Mavericks findit569@gmail.com
 
- Everyone is permitted to copy and distribute verbatim copies of this license document,
+## Everyone is permitted to copy and distribute verbatim copies of this license document,
  but changing it is not allowed.
 
                             Preamble
 
-  The GNU General Public License is a free, copyleft license for software and other
+##  The GNU General Public License is a free, copyleft license for software and other
   kinds of works.
 
   The licenses for most software and other practical works are designed to take away
@@ -32,7 +32,7 @@
 
 ---
 
-                        GNU GENERAL PUBLIC LICENSE
+                      ##  GNU GENERAL PUBLIC LICENSE
                        TERMS AND CONDITIONS
 
   0. Definitions.
@@ -51,37 +51,37 @@
   resulting work is called a "modified version" of the earlier work or a work "based
   on" the earlier work.
 
-Section 1: Source Code – Defines what constitutes source code and the requirements for distributing it.
+### Section 1: Source Code – Defines what constitutes source code and the requirements for distributing it.
 ---
-Section 2: Basic Permissions – Grants the rights to use, modify, and distribute the software.
+### Section 2: Basic Permissions – Grants the rights to use, modify, and distribute the software.
 ---
-Section 3: Protecting Users' Legal Rights – Ensures that no additional restrictions can be imposed on users.
+### Section 3: Protecting Users' Legal Rights – Ensures that no additional restrictions can be imposed on users.
 ---
-Section 4: Conveying Verbatim Copies – Specifies how unmodified copies of the software can be shared.
+### Section 4: Conveying Verbatim Copies – Specifies how unmodified copies of the software can be shared.
 ---
-Section 5: Conveying Modified Source Versions – Outlines the rules for distributing modified versions of the software.
+### Section 5: Conveying Modified Source Versions – Outlines the rules for distributing modified versions of the software.
 ---
-Section 6: Conveying Non-Source Forms – Details the requirements for distributing compiled or non-source forms of the software.
+### Section 6: Conveying Non-Source Forms – Details the requirements for distributing compiled or non-source forms of the software.
 ---
-Section 7: Additional Terms – Allows certain additional permissions or requirements to be added under specific conditions.
+### Section 7: Additional Terms – Allows certain additional permissions or requirements to be added under specific conditions.
 ---
-Section 8: Termination – Explains when and how the license can be terminated.
+### Section 8: Termination – Explains when and how the license can be terminated.
 ---
-Section 9: Acceptance Not Required for Having Copies – Clarifies that simply possessing a copy of the software does not require acceptance of the license.
+### Section 9: Acceptance Not Required for Having Copies – Clarifies that simply possessing a copy of the software does not require acceptance of the license.
 ---
-Section 10: Automatic Licensing of Downstream Recipients – Ensures that recipients automatically receive the same rights as the original licensee.
+### Section 10: Automatic Licensing of Downstream Recipients – Ensures that recipients automatically receive the same rights as the original licensee.
 ---
-Section 11: Patents – Addresses patent grants and protections for contributors and users.
+### Section 11: Patents – Addresses patent grants and protections for contributors and users.
 ---
-Section 12: No Surrender of Others' Freedom – Prohibits actions that would restrict others' freedoms under the license.
+### Section 12: No Surrender of Others' Freedom – Prohibits actions that would restrict others' freedoms under the license.
 ---
-Section 13: Use with the GNU Affero General Public License – Provides compatibility with the AGPL.
+### Section 13: Use with the GNU Affero General Public License – Provides compatibility with the AGPL.
 ---
-Section 14: Revised Versions of this License – Explains how future versions of the GPL may apply.
+### Section 14: Revised Versions of this License – Explains how future versions of the GPL may apply.
 ---
-Section 15: Disclaimer of Warranty – States that the software is provided "as-is" without warranties.
+### Section 15: Disclaimer of Warranty – States that the software is provided "as-is" without warranties.
 ---
-Section 16: Limitation of Liability – Limits liability for damages arising from the use of the software.
+### Section 16: Limitation of Liability – Limits liability for damages arising from the use of the software.
 ---
 
 ---
