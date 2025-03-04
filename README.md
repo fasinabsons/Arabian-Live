@@ -1,6 +1,6 @@
-Express.js Server with MongoDB and Socket.IO
+# Express.js Server with MongoDB and Socket.IO
 =====================================================
-##Overview
+## Overview
 ### This is a Node.js server built with Express.js, MongoDB, and Socket.IO. It provides a RESTful API for interacting with a MongoDB database and real-time updates using Socket.IO.
 Features
 ---
@@ -18,13 +18,13 @@ Features
 ---
 ## Dashboard Metrics API
 ### GET /dashboard-metrics/:collectionName: Fetch dashboard metrics for a specific collection
-## Collection Operations
+### Collection Operations
 ### GET /fetch-collection/:collectionName: Fetch all documents in a collection
 ### POST /insert-document/:collectionName: Insert a new document into a collection
 ### PUT /update-document/:collectionName/:id: Update a document in a collection
 ### DELETE /delete-document/:collectionName/:id: Delete a document from a collection
 ---
-##Other Endpoints
+## Other Endpoints
 ### GET /get-local-data/:collectionName: Get local data for a collection
 ### POST /save-filter-data/:collectionName: Save filtered data for a collection
 ### POST /save-filter-selections/:collectionName: Save filter selections for a collection
