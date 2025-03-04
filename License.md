@@ -1,15 +1,14 @@
-                   # GNU GENERAL PUBLIC LICENSE
-                       Version 1, 4 June 2025
+# GNU GENERAL PUBLIC LICENSE
+## Version 1, 4 June 2025
 
 ## Copyright (C) 2025 Faseen Mavericks findit569@gmail.com
 
 ## Everyone is permitted to copy and distribute verbatim copies of this license document,
- but changing it is not allowed.
+##  but changing it is not allowed.
 
                             Preamble
 
-##  The GNU General Public License is a free, copyleft license for software and other
-  kinds of works.
+## The GNU General Public License is a free, copyleft license for software and other kinds of works.
 
   The licenses for most software and other practical works are designed to take away
   your freedom to share and change the works. By contrast, the GNU General Public
@@ -86,7 +85,7 @@
 
 ---
 
-  This MEAN Stack Angular Frontend application is free software: you can redistribute
+#  This MEAN Stack Angular Frontend application is free software: you can redistribute
   it and/or modify it under the terms of the GNU General Public License as published
   by the Free Software Foundation, either version 3 of the License, or (at your
   option) any later version.
