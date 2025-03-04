@@ -1,4 +1,3 @@
-Here is a sample GNU (link unavailable) file:
 GNU GENERAL PUBLIC LICENSE
 =====================================
 Version 1, 4 March 2025
