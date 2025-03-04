@@ -82,6 +82,7 @@ Section 14: Revised Versions of this License – Explains how future versions of
 Section 15: Disclaimer of Warranty – States that the software is provided "as-is" without warranties.
 ---
 Section 16: Limitation of Liability – Limits liability for damages arising from the use of the software.
+---
 
 ---
 
