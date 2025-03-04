@@ -29,7 +29,7 @@ POST save-dark-mode Save dark mode setting
 GET load-dark-mode Load dark mode setting
 POST set-alert Set an alert
 Setup and Installation
-Clone the repository git clone 
+Clone the repository git clone https://github.com/fasinabsons/Arabian-Live.git
 Install dependencies npm install
 Start the server node server.js
 Contributing
