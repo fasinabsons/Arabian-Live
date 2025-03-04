@@ -1,13 +1,17 @@
-#Express.js Server with MongoDB and Socket.IO
+Express.js Server with MongoDB and Socket.IO
 =====================================================
-##Overview
-###This is a Node.js server built with Express.js, MongoDB, and Socket.IO. It provides a RESTful API for interacting with a MongoDB database and real-time updates using Socket.IO.
+Overview
+This is a Node.js server built with Express.js, MongoDB, and Socket.IO. It provides a RESTful API for interacting with a MongoDB database and real-time updates using Socket.IO.
 Features
-RESTful API for CRUD operations on MongoDB collections
+
+
+##RESTful API for CRUD operations on MongoDB collections
 Real-time updates using Socket.IO
 Support for multiple collections and databases
 Error handling and logging
-API Endpoints
+
+
+##API Endpoints
 Fetch Logs API
 GET /fetch-logs/:collectionName: Fetch logs for a specific collection
 Query Parameters:
@@ -28,11 +32,11 @@ POST /save-dark-mode: Save dark mode setting
 GET /load-dark-mode: Load dark mode setting
 POST /set-alert: Set an alert
 Setup and Installation
-#Clone the repository: git clone https://github.com/your-username/your-repo-name.git
-#Install dependencies: npm install
-#Start the server: node server.js
-##Contributing
-###Contributions are welcome! Please submit a pull request with your changes.
+Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Install dependencies: npm install
+Start the server: node server.js
+Contributing
+Contributions are welcome! Please submit a pull request with your changes.
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
