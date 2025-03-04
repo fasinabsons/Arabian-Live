@@ -1,5 +1,5 @@
 # Express.js Server with MongoDB and Socket.IO
-=====================================================
+---
 ## Overview
 ### This is a Node.js server built with Express.js, MongoDB, and Socket.IO. It provides a RESTful API for interacting with a MongoDB database and real-time updates using Socket.IO.
 Features
