@@ -142,7 +142,7 @@ Licensing
 This application is licensed under the GNU General Public License. Users are free to modify and distribute the software, but must adhere to the terms and conditions of the license.
 Disclaimer
 The application is provided "as is" without warranty of any kind. The licensors and authors disclaim all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
-Copyright (C) <2025> <Mohamed Fasin A F>
+Copyright (C) 2025 Mohamed Fasin A F
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
