@@ -1,10 +1,10 @@
 # GNU GENERAL PUBLIC LICENSE
-## Version 1, 4 June 2025
+Version 1, 4 June 2025
 
-## Copyright (C) 2025 Faseen Mavericks findit569@gmail.com
+Copyright (C) 2025 Faseen Mavericks findit569@gmail.com
 
-## Everyone is permitted to copy and distribute verbatim copies of this license document,
-##  but changing it is not allowed.
+Everyone is permitted to copy and distribute verbatim copies of this license document,
+but changing it is not allowed, You can use the pull requests
 
                             Preamble
 
