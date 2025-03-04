@@ -82,7 +82,7 @@ This app is free to use, tweak, and share under the **GNU General Public License
 ---
 
 ## Let’s Chat
-Got questions or ideas? Reach out to us at `faseenofficial@gmail.com`. We’d love to hear from you!
+Got questions or ideas? Reach out to us at `findit569@gmail.com`. We’d love to hear from you!
 
 ---
 
